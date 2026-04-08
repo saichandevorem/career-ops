@@ -5,10 +5,21 @@
 ## My Customizations
 
 - **Profile:** Configured for DevOps Engineer / Cloud Platform Engineer roles
-- **Target Locations:** Germany, Switzerland, Netherlands, Scandinavia (Sweden, Norway, Denmark, Finland), and other high-income European countries (remote-friendly)
+- **Target Locations:** Germany, Switzerland, Netherlands, Scandinavia (Sweden, Norway, Denmark, Finland), (remote-friendly)
 - **Archetypes:** Cloud Platform, DevOps, SRE, Platform Engineer, Solutions Architect
 - **Portal Scanner:** 40+ companies across Europe including Microsoft, Google, AWS, SAP, BMW, Spotify, Klarna, ING, ABN AMRO, etc.
 - **Tech Focus:** Azure, Kubernetes, Terraform, GitHub Actions, ArgoCD, Prometheus/Grafana
+
+<p align="center">
+  <a href="https://saichandevorem.github.io/3d-portfolio/"><img src="https://saichandevorem.github.io/3d-portfolio/images/saichander.png" alt="Saichander Vorem — DevOps Engineer & Cloud Consultant" width="800"></a>
+</p>
+
+<p align="center">
+  <strong>Saichander Vorem</strong> — DevOps Engineer & Cloud Consultant<br>
+  <a href="https://saichandevorem.github.io/3d-portfolio/">Portfolio</a> · 
+  <a href="https://www.linkedin.com/in/saichander-reddy-vorem-683870229/">LinkedIn</a> · 
+  <a href="https://github.com/saichandevorem">GitHub</a>
+</p>
 
 ---
 
