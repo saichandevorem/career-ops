@@ -1,6 +1,20 @@
 # Career-Ops
 
-[English](README.md) | [Español](README.es.md)
+> **Fork Notice:** This is a customized version of [Career-Ops](https://github.com/santifer/career-ops), an open-source AI-powered job search system created by [Santiago Fernández de Valderrama](https://santifer.io). I've adapted it for my DevOps/Cloud career search in Europe.
+
+## My Customizations
+
+- **Profile:** Configured for DevOps Engineer / Cloud Platform Engineer roles
+- **Target Locations:** Germany, Switzerland, Netherlands, Scandinavia (Sweden, Norway, Denmark, Finland), and other high-income European countries (remote-friendly)
+- **Archetypes:** Cloud Platform, DevOps, SRE, Platform Engineer, Solutions Architect
+- **Portal Scanner:** 40+ companies across Europe including Microsoft, Google, AWS, SAP, BMW, Spotify, Klarna, ING, ABN AMRO, etc.
+- **Tech Focus:** Azure, Kubernetes, Terraform, GitHub Actions, ArgoCD, Prometheus/Grafana
+
+---
+
+## Original Project
+
+[English](README.md) 
 
 <p align="center">
   <a href="https://x.com/santifer"><img src="docs/hero-banner.jpg" alt="Career-Ops — Multi-Agent Job Search System" width="800"></a>
