@@ -44,22 +44,32 @@ DevOps Engineer with 7+ years of experience in Cloud Delivery and enterprise clo
 ## Professional Experience
 
 ### DevOps Engineer & Cloud Consultant
-**Current Role** | Munich, Germany | 2024 – Present
+**Cluster Reply GmbH (Client: BMW Group)** | Munich, Germany | 06.2022 – Present
 
-- Delivering enterprise cloud solutions on Microsoft Azure with focus on Kubernetes orchestration, Infrastructure as Code, and CI/CD automation
-- Building highly available and compliant cloud platforms for regulated environments
-- Collaborating with product teams, security experts, and regional operations teams
-- Implementing GitOps workflows with ArgoCD and GitHub Actions
+- Designed and operated Azure-based Kubernetes (AKS) platforms for enterprise-grade cloud-native applications, ensuring high availability and secure production operations
+- Developed and maintained CI/CD pipelines using GitHub Actions and ArgoCD, improving deployment reliability and supporting automated product operations
+- Adopted GitOps principles for continuous delivery, improved traceability, and minimizing configuration drift across environments
+- Automated infrastructure provisioning with Terraform modules and Ansible, improving consistency and reducing configuration drift
+- Designed and managed Helm charts for AKS workloads, supporting reusable, version-controlled application deployments
+- Architected and maintained BMW's enterprise API gateway platform on Microsoft Azure, managing 20+ global automotive APIs using Azure API Management, Azure Front Door CDN, and Application Gateway with WAF
+- Implemented Kubernetes security and compliance policies (Kyverno), reducing misconfigurations and strengthening cloud security posture
+- Worked in enterprise cloud environments with strict compliance, data protection, and security requirements
+- Acted as technical lead for selected automation initiatives, coordinating tasks across developers and operations teams
+- Supported incident troubleshooting and root cause analysis in production environments, ensuring SLA compliance
 
-### Cloud Platform Operations Engineer
-**Previous Role** | 2017 – 2024 (7 years)
+### IT Engineer (Freelance)
+**Nokia** | Munich, Germany | 06.2025 – 09.2025
 
-- Enterprise cloud platform operations specializing in Azure and Kubernetes
-- Implemented Infrastructure as Code using Terraform and Ansible
-- Designed and maintained CI/CD pipelines with GitHub Actions and Azure DevOps
-- Set up comprehensive monitoring solutions using Prometheus and Grafana
-- Led migration of legacy workloads to containerized Kubernetes deployments
-- Established security best practices and compliance controls for enterprise environments
+- Led the setup of IT rooms for new office locations, overseeing installation of firewalls, switches, routers, and servers
+- Coordinated on-site activities including rack mounting, cabling, and device configuration
+- Acted as liaison between on-site teams, HCL back-end team, and Nokia Project Manager
+
+### Hardware Network Engineer (Freelance)
+**E.ON** | Hannover, Germany | 09.2019 – 02.2022
+
+- Conducted infrastructure checks for physical infrastructure in data centers
+- Managed data centers and troubleshooting issues with switch interfaces and cable connectivity
+- Provided preventive maintenance for servers and storage equipment
 
 **Key Achievements:**
 - Reduced deployment time by 60% through automated CI/CD pipelines
@@ -95,8 +105,11 @@ DevOps Engineer with 7+ years of experience in Cloud Delivery and enterprise clo
 
 ## Education
 
-**Bachelor of Technology in Computer Science**
-University Name | Year
+**M.Sc. Computational Engineering** (In Progress)
+Currently pursuing
+
+**B.Eng. Automotive Engineering**
+Completed
 
 ---
 
